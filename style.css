@@ -54,11 +54,11 @@ footer a + a {
 }
 a {
     text-decoration: none;
+    padding-bottom: 100px;
 }
 footer img {
     position: fixed;
     width: 100vw;
     left: 0;
     bottom: 0;
-    
 }
